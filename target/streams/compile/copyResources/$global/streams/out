@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/andrealmar/dev/play_framework/banking/conf/application.conf,/Users/andrealmar/dev/play_framework/banking/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/andrealmar/dev/play_framework/banking/conf/logback.xml,/Users/andrealmar/dev/play_framework/banking/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/andrealmar/dev/play_framework/banking/conf/routes,/Users/andrealmar/dev/play_framework/banking/target/scala-2.11/classes/routes)[0m
